@@ -19,3 +19,8 @@ I'm a Computer Science student with a passion for using code to solve real-world
 📫 Let's connect!  
 I'm always open to new learning opportunities, collaborations, and advice from other developers.
 
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/onyedikachinzute)
+- [Email](mailto:onyedikachinzute@gmail.com)
+
