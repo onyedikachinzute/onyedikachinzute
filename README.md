@@ -21,6 +21,6 @@ I'm always open to new learning opportunities, collaborations, and advice from o
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/onyedikachinzute)
+- [LinkedIn]([https://www.linkedin.com/in/onyedikachinzute](https://www.linkedin.com/in/onyedikachi-nzute-b30162331/))
 - [Email](mailto:onyedikachinzute@gmail.com)
 
