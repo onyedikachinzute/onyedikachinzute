@@ -1,26 +1,39 @@
 # 👋 Hi, I'm Onyedikachi Nzute
 
-I'm a Computer Science student with a passion for using code to solve real-world problems and build tools that make a difference. I'm currently focused on learning the foundations of software development and improving every day through hands-on coding and exploration.
+I'm a Computer Science student and Python developer passionate about building applications that solve real-world problems. I enjoy turning ideas into polished software—from AI-powered desktop applications to modern web apps and mobile solutions.
 
-🧠 I enjoy breaking down complex problems and turning them into structured, working solutions — whether it's a simple script or a full application.
+I love designing, building, and refining complete products, combining clean code, thoughtful user experiences, and reliable backend logic. Whether it's a desktop application, a web app deployed to the cloud, or an automation tool, I'm always excited to build software that people can actually use.
 
-💡 I'm currently learning:
-- Python, JavaScript, and Rust
-- Git & GitHub
-- Problem-solving with data structures and algorithms
-- The basics of web development & software design
+## 🚀 What I'm Working With
 
-🎯 My goals:
-- Build a strong portfolio of projects
-- Learn by doing — through consistent practice and experimentation
-- Contribute to open-source projects as I grow
-- Make a positive impact through technology
+- 🐍 Python
+- 🌐 JavaScript, HTML & CSS
+- 🗄️ PostgreSQL & SQL
+- 📱 Desktop & Mobile Application Development
+- 🤖 Artificial Intelligence & Automation
+- ☁️ Modern Web Applications
+- 🌿 Git & GitHub
 
-📫 Let's connect!  
-I'm always open to new learning opportunities, collaborations, and advice from other developers.
+## 🌱 Currently Learning
 
-## 🔗 Connect with Me
+- Rust
+- Software Architecture & Design Patterns
+- AI Engineering & Machine Learning
+- Cross-platform application development
+- Building scalable web applications
+
+## 🎯 Goals
+
+- Build intelligent applications that solve meaningful problems
+- Create a portfolio of impactful desktop, web, and mobile projects
+- Contribute to open-source software
+- Continue growing as a developer through hands-on learning and real-world projects
+
+## 📫 Let's Connect
+
+I'm always open to connecting with developers, designers, and tech enthusiasts. Whether it's collaborating on a project, discussing new ideas, or learning from others, I'd love to connect.
+
+## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/onyedikachi-nzute-b30162331/)
 - [Email](mailto:onyedikachinzute@gmail.com)
-
